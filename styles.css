@@ -1,0 +1,77 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body{
+  background-color: #E77471;
+  margin:0;
+}
+
+.header{
+  background-color: #0C090A;
+  height: 60px;
+  color:White;
+  padding-left:80px;
+  width:auto;
+}
+.heading{
+  font-family: 'Anton', sans-serif;
+  height: 100px;
+}
+
+.addon{
+  background-color:#E5E4E2;
+  margin:30px auto;
+  padding:10px;
+  height: 60px;
+  width:50%;
+  border-radius: 7px;
+  box-shadow: 0 2px 5px #ccc;
+
+}
+.inputone{
+  background: #E5E4E2;
+  width: 100%;
+ border: none;
+ padding: 4px;
+ outline: none;
+ font-size:1.2em;
+ font-family: inherit;
+ resize: none;
+}
+.btn{
+  border-radius: 50%;
+  background-color:#E5E4E2;
+  position: relative;
+  left:500px;
+  width: 36px;
+  height: 36px;
+  outline: none;
+  border
+}
+.namelist{
+  margin:30px auto;
+  background-color: #E5E4E2;
+  height: 40px;
+  width:35%;
+  border-radius: 7px;
+  padding:4px;
+
+}
+.nameinside{
+  margin-top: 4px;
+  font-size: 1.1em;
+  /* white-space: pre-wrap;
+  word-wrap: break-word; */
+}
+.del{
+  /* height: 18px;
+  width:18px; */
+  background-color: #E5E4E2;
+  border-radius: 6px;
+  position:relative;
+  left:130px;
+  margin:none;
+  outline:none;
+}
